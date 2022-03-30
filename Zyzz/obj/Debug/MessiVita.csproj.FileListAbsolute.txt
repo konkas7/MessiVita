@@ -1,0 +1,11 @@
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\bin\Debug\Zyzz.exe.config
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\bin\Debug\Zyzz.exe
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\bin\Debug\Zyzz.pdb
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\obj\Debug\MessiVita.csprojAssemblyReference.cache
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\obj\Debug\Zyzz.Form1.resources
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\obj\Debug\Zyzz.Form2.resources
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\obj\Debug\Zyzz.Properties.Resources.resources
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\obj\Debug\MessiVita.csproj.GenerateResource.cache
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\obj\Debug\MessiVita.csproj.CoreCompileInputs.cache
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\obj\Debug\Zyzz.exe
+C:\Users\vita.19333\Desktop\MessiVita\Zyzz\obj\Debug\Zyzz.pdb
